@@ -9,6 +9,7 @@ If (RowIndex % 3 != 0) then they need to write a string from right to left order
 If the string ends it will be started again and the end of the triangle need not be the end of the string. 
  
 For eg: string is "INDORE" and height of triangle is “5” 
+
 I  
 D  N  
 O R E  
